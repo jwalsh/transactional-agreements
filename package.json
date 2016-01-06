@@ -1,0 +1,23 @@
+{
+  "name": "transactional-agreements",
+  "version": "1.0.0",
+  "description": "Persist agreements on the block chain.",
+  "main": "src/index.js",
+  "dependencies": {
+    "nodegit": "^0.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwalsh/transactional-agreements.git"
+  },
+  "author": "Jason Walsh <j@wal.sh>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jwalsh/transactional-agreements/issues"
+  },
+  "homepage": "https://github.com/jwalsh/transactional-agreements#readme"
+}
