@@ -15,13 +15,21 @@ Legal contracts for developer linkage payment agreements.
 # Data 
 
 - https://data.cambridgema.gov/
+- Socrata
+- SODA
+
+# Resources 
+
 - https://dev.socrata.com/
 - https://www.ethereum.org/
 - http://www.ethereum-alarm-clock.com/
-
+- https://github.com/ethereum/wiki/wiki/The-Solidity-Programming-Language
+  
 # Flow 
 
 - The application polls or receives events
++ GitHub: https://github.com/GSA/jobs_api
++ Cambridge Open Data: ...
 - Application puts a transaction on the block 
 - The contract 
 
