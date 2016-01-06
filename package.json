@@ -6,7 +6,8 @@
   "dependencies": {
     "csv": "^0.4.6",
     "csv-parse": "^1.0.1",
-    "nodegit": "^0.6.3"
+    "nodegit": "^0.6.3",
+    "stochastic": "0.0.14"
   },
   "devDependencies": {
     "nodegit": "^0.6.3"
