@@ -15,8 +15,9 @@ Legal contracts for developer linkage payment agreements.
 # Data 
 
 - https://data.cambridgema.gov/
-- Socrata
+- https://www.socrata.com/
 - SODA
+- https://github.com/NYPL-publicdomain/data-and-utilities
 
 # Resources 
 
